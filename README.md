@@ -1,5 +1,5 @@
-## BrainAI M.AX(제조업 AX: Manufacturing AI Transformation) 프로젝트: 금속 표면 결함 탐지 AI 시스템 개발 환경 구축
-
+## BrainAI M.AX(제조업 AX: Manufacturing AI Transformation) 프로젝트
+금속 표면 결함 탐지(Metal Surface Detection) AI 시스템 개발 환경 구축
 
 #### 🔍 Python Version: 3.12.2
 https://www.python.org/downloads/release/python-3122/
