@@ -8,13 +8,11 @@ https://www.python.org/downloads/release/python-3122/
 다운르도 링크. https://aka.ms/vc14/vc_redist.x64.exe <br>
 참고 링크. https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170
 
-#### 🔍 가상 환경: python –m venv vbrainai_sorter
+#### 🔍 가상 환경: python –m venv vbrainai_max
 
 #### 🔍 Library Version Details
 --------------------------------------------------
 - python.exe -m pip install --upgrade pip
-- pip install tensorflow==2.19.0
-- pip install keras==3.11.2
 - pip install openvino==2025.2.0
 - pip install ultralytics
 - pip install opencv-python
